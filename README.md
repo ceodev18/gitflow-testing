@@ -1,2 +1,2 @@
 # gitflow-testing
-Testing funcionalities from GitFlow
+Understading how gitflow works
